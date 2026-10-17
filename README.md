@@ -1,0 +1,2 @@
+# instinct
+CLaude_manager
